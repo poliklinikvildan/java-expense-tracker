@@ -31,8 +31,5 @@ To run the program locally, follow these steps:
    - View the total expenses dynamically updated on the window.
 7. Exit the program by closing the GUI window or using system mechanisms to terminate execution.
 
-## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
-
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License (poliklinikvildan ).
